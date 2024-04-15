@@ -1,0 +1,25 @@
+/*----main----*/
+.main-li ul{
+    padding: 10px 5%;
+    list-style-type: none;
+}
+.main-li li{
+    padding: 5px;
+    margin-left: 30px;
+    width: 18rem;
+}
+ul li h3:hover{
+    text-shadow:0px 0px 10px aqua;
+}
+button{
+    padding:5px 10px;
+    margin: 0px 0px 0px 20px;
+    background-color: transparent;
+    font-weight: 600;
+}
+a{
+    color: white;
+}
+button:hover{
+    box-shadow: 0px 0px 10px #00ffff;
+}
